@@ -5,7 +5,7 @@ stages:
   - deploy
 
 variables:
-  BUCKET_NAME: cms-gatsby-poc-gitlabci
+  BUCKET_NAME: torin.design
 
 cache:
   paths:
